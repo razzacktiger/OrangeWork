@@ -31,3 +31,6 @@ Before starting up app, navigate to the projectstart file. Run python3 IDE
     quit()  # exit out of IDE
     
 Navigate to the projectstart file and run `python3 run.py` Using this you should be able to run the application.
+
+### Accessing Mkdocs 
+To access the docs navigate to the docs/projectdocs folder and run `mkdocs serve` in the terminal. Then copy the url given and run it in a browser. The docs will provide a detailed overview of the methods, and contents of the implementation. 
